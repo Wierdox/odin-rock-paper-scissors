@@ -3,3 +3,9 @@ body {
     color: olive;
     background-color: darkslategray;
 }
+div.player {
+    color:cadetblue;
+}
+p {
+    color:aquamarine;
+}
